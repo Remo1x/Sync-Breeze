@@ -1,0 +1,7 @@
+crashed --> 800 bytes
+
+offset --> 780 byte
+
+bad chars --> "\x00\x0a\x0d\x25\x26\x2b\x3d"
+
+return address --> "\x83\x0c\x09\x10"
